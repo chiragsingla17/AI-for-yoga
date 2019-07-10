@@ -1,2 +1,3 @@
 # AI-for-yoga
-first commit
+Open pose weights are used.
+
